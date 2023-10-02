@@ -1,7 +1,5 @@
 # MgmtCopyPaste
 
-![GIF](IMG/logo.png)
-
 👽 MgmtCopyPaste is a clipboard management utility designed to simplify copy-paste operations. With this utility, you can keep track of clipboard history and easily copy previous items back to the clipboard. The application is developed in C# and uses WinForms for the graphical user interface.
 
 ![GIF](IMG/GIF.gif)
@@ -36,5 +34,5 @@
 6. To quickly copy items from the clipboard history, use the Shift+Click feature: Press Shift and perform a single click to copy the first item, Shift plus two clicks for the second item, and so on. This feature is especially useful when dealing with multiple clipboard items in rapid succession.
 
 
-
+<img src="IMG/logo.png" width="400">
 
