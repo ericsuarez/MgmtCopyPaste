@@ -2,7 +2,7 @@
 
 MgmtCopyPaste is a clipboard management utility designed to simplify copy-paste operations. With this utility, you can keep track of clipboard history and easily copy previous items back to the clipboard. The application is developed in C# and uses WinForms for the graphical user interface.
 
-![Screenshot](IMG/GIF.png)
+![GIF](IMG/GIF.gif)
 
 ## Features
 
